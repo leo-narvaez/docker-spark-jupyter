@@ -23,7 +23,7 @@ Debes contar con un proyecto Docker existente que ya tenga una configuración in
 
     Clona el repositorio si aún no lo tienes:
     ```bash
-    git clone https://github.com/leo-narvaez/docker-spark.git
+    [git clone https://github.com/leo-narvaez/docker-spark.git](https://github.com/leo-narvaez/docker-spark-jupyter.git)
     ```
     ```bash
     cd docker-spark
