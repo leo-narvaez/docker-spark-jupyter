@@ -26,7 +26,7 @@ Debes contar con un proyecto Docker existente que ya tenga una configuración in
     git clone https://github.com/leo-narvaez/docker-spark-jupyter.git
     ```
     ```bash
-    cd docker-spark
+    cd docker-spark-jupyter
     ```
 
 ## Paso 1: Iniciar el contenedor y acceder a Jupyter
